@@ -1,6 +1,6 @@
-# Projet GNGNGNGN
+# Projet ProFound
 
-#### Une petite description du projet
+#### Estimer si un projet est financé, et si oui pour quel montant !
 
 ## Contexte
 
@@ -9,9 +9,6 @@ Nous sommes un groupe d'étudiants inégnieurs au CNAM de Niort qui avons réali
 ## Objectifs
 
 A partir du jeu de données dont nous avons à notre disposition, l'objectif va être de déterminer si oui ou non un projet sera financé et si oui, à quel montant ?
-
-
-
 
 ## Présentation du data set
 
